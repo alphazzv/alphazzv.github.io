@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://yuxiangtiant.github.io
+url: https://alphazzv.github.io
 date_format: "ordinal"
 title: 个人博客
-subtitle: "喻向天的个人博客"
-description: "喻向天的个人博客"
-keywords: 个人博客，喻向天
+subtitle: "涂清鹏的个人博客"
+description: "涂清鹏的个人博客"
+keywords: 个人博客，涂清鹏
 timezone: Asia/Wuhan
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2022
 # 源码仓库，请替换成自己的
-repository: YuxiangtianT/YuxiangtianT.github.io
+repository: alphazzv/alphazzv.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: false
-        image_alt: 喻向天
+        image_alt: 涂清鹏
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -54,12 +54,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 喻向天
+author: 涂清鹏
 organization: 武汉理工大学
 organization_url: 
-github_username: YuxiangtianT
+github_username: alphazzv
 location: Wuhan, China
-email: 1229856660@qq.com
+email: 1015840178@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -143,10 +143,10 @@ comments_provider: gitalk
 #         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: YuxiangtianT
-    repo: YuxiangtianT.github.io
-    clientID: 04daf7c9a13454b7ec04
-    clientSecret: c486f6164bb4f3afc84263ab3aef94f76d4d5ece
+    owner: alphazzv
+    repo: alphazzv.github.io
+    clientID: 3ff3875cf083e8fd34f6
+    clientSecret: 79cbe6ca2e8b63b21f1485330381f674f3caceae
     admin: 
 # utterances 配置参考：https://utteranc.es/
 # utterances:
