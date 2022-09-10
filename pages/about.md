@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: 喻向天
+description: 毕业万岁
+keywords: 涂清鹏
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-这是喻向天的个人博客
+这是涂清鹏的个人博客
 
 专门记录平时学习的知识以及遇到的问题
 
